@@ -4,3 +4,15 @@
 .nav-link:hover{
     color: black !important;
     }    
+.foot-link{
+        color: white !important;
+        }
+.foot-link:hover{
+        color: rgb(240, 110, 24) !important;
+}       
+.sidebar-link{
+    color: black !important;
+    }
+.sidebar-link:hover{
+    color: rgb(240, 110, 24) !important;
+}       
